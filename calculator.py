@@ -4,7 +4,7 @@ setuptools.setup(
   include_package_data = True,
   name='00100',
   version='0.0.1',
-  description='',
+  description='oss-dev my calculator',
   author='jihoonjeong',
   author_email='jeong283056@gmail.com',
   url = "https://github.com/jihoonjeong56/00100",
